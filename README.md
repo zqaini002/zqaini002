@@ -4,13 +4,9 @@
 
 <br/>
 
-<a href="https://github.com/zqaini002?tab=followers">
-  <img src="https://img.shields.io/github/followers/zqaini002?label=Followers&style=social" />
-</a>
+<a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=Followers&style=social" /></a>
 &nbsp;
-<a href="https://github.com/zqaini002?tab=stars">
-  <img src="https://img.shields.io/github/stars/zqaini002?affiliations=owner&style=social" />
-</a>
+<a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?affiliations=owner&style=social" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=zqaini002&color=blueviolet&style=flat-square" />
 
@@ -32,6 +28,17 @@
     </td>
   </tr>
 </table>
+
+---
+
+### Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-7-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-63-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-6-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-132+-brightgreen?style=flat-square&logo=github" />
+</p>
 
 ---
 
@@ -63,27 +70,15 @@
 
 ---
 
-### GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zqaini002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqaini002&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zqaini002&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zqaini002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+| Project | Description | Stars |
+| :--- | :--- | :---: |
+| [Novel_Wonderful-generation](https://github.com/zqaini002/Novel_Wonderful-generation) | 小说智析 - 小说筛选、理解和分析系统 | ⭐ 44 |
+| [student-management](https://github.com/zqaini002/student-management) | 高校学生信息管理系统 (Spring Boot) | ⭐ 9 |
+| [YaoYaoLingXian](https://github.com/zqaini002/YaoYaoLingXian) | 鸿蒙梦想生活规划师 App | ⭐ 5 |
+| [AI-Agent-Harness](https://github.com/zqaini002/AI-Agent-Harness) | 智能体工程平台 - 能力编排与工具调用 | ⭐ 1 |
+| [Travel-Assistant](https://github.com/zqaini002/Travel-Assistant) | 基于 Open-AutoGLM 的语音旅行规划 | ⭐ 1 |
 
 ---
 
