@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- ===== HEADER ===== -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+Hey%2C+I%27m+zqaini002+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Engineer;Building+the+Future+with+Code+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-<!-- ===== BADGES ===== -->
 <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00d4ff" /></a>
 &nbsp;
 <a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
@@ -32,7 +30,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-059f30b0-1efb-4db8-ab51-27f58cce3069.gif" width="30" /> About Me
+### <img src="https://img.shields.io/badge/About_Me-00d4ff?style=flat-square&logo=github&logoColor=white" />
 
 <table>
   <tr>
@@ -50,7 +48,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257460-7167bb75-3d91-4593-8236-0c2d2d47bb98.gif" width="30" /> Tech Arsenal
+### <img src="https://img.shields.io/badge/Tech_Arsenal-ffd700?style=flat-square&logo=github&logoColor=black" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -81,7 +79,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e20b10-bc67-4d89-9d24-f09f3a1c5e6e.gif" width="30" /> Battle Stats
+### <img src="https://img.shields.io/badge/Battle_Stats-ff6b6b?style=flat-square&logo=github&logoColor=white" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/REPOS-7-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
@@ -92,7 +90,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-f0e83b9f-2b7a-4a6a-8a46-43f54c3e8a56.gif" width="30" /> Featured Projects
+### <img src="https://img.shields.io/badge/Featured_Projects-00ff88?style=flat-square&logo=github&logoColor=black" />
 
 <table>
   <tr>
@@ -143,7 +141,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-472a-460e-883c-39d85eb5a299.gif" width="30" /> Contribution Snake
+### <img src="https://img.shields.io/badge/Contribution_Snake-brightgreen?style=flat-square&logo=github&logoColor=white" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake-dark.svg" />
