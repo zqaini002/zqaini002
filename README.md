@@ -1,50 +1,26 @@
 <p align="center">
   <a href="https://github.com/zqaini002">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=200&section=header&text=zqaini002&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source&descSize=16&descAlignY=55&animation=fadeIn" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=200&section=header&text=zqaini002&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source&descSize=16&descAlignY=55&animation=fadeIn" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code+%E2%9A%A1;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=58A6FF" /></a>
   <a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
-  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=58A6FF&style=for-the-badge&label=VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  >> SYSTEM LOADING...                                       ║
-║  >> ID        : zqaini002                                   ║
-║  >> ROLE      : Full-Stack Developer / AI Explorer          ║
-║  >> STATUS    : ACTIVE                                      ║
-║  >> MOTTO     : Code is poetry, every commit is a verse.    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
 ## About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 Building <strong>AI Agent platforms</strong> & <strong>intelligent full-stack systems</strong></li>
-        <li>🌱 Deep into <strong>LLM / HarmonyOS / Cloud-Native Architecture</strong></li>
-        <li>⚡ Passionate about <strong>Java, Python, TypeScript, Go</strong></li>
-        <li>🎯 Mission: Turn complex problems into elegant, scalable solutions</li>
-        <li>💬 Open to collaboration on <strong>AI + Developer Tools</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> Full-Stack Developer passionate about building intelligent systems.
+> Currently focused on **AI Agent platforms**, **HarmonyOS**, and **cloud-native architecture**.
+> Love turning complex problems into elegant, scalable solutions.
 
 ---
 
@@ -82,10 +58,10 @@
 ## Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REPOS-7-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOTAL_STARS-63-ffd700?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-6-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-132+-00C853?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/7_REPOS-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/63_STARS-ffd700?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/6_FOLLOWERS-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/132+_CONTRIBUTIONS-00C853?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -94,47 +70,37 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/zqaini002/Novel_Wonderful-generation">
-        <img src="https://img.shields.io/badge/%E2%AD%90-44-ffd700?style=for-the-badge" /><br/>
-        <strong>Novel_Wonderful-generation</strong><br/>
-        <sub>小说智析系统 | Java</sub>
-      </a>
+    <td align="center">
+      <a href="https://github.com/zqaini002/Novel_Wonderful-generation"><img src="https://img.shields.io/badge/44_stars-ffd700?style=for-the-badge&logo=github" /></a><br/>
+      <a href="https://github.com/zqaini002/Novel_Wonderful-generation"><b>Novel_Wonderful-generation</b></a><br/>
+      <sub>Novel Analysis System | Java</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/zqaini002/student-management">
-        <img src="https://img.shields.io/badge/%E2%AD%90-9-ffd700?style=for-the-badge" /><br/>
-        <strong>student-management</strong><br/>
-        <sub>高校学生管理系统 | Java</sub>
-      </a>
+    <td align="center">
+      <a href="https://github.com/zqaini002/student-management"><img src="https://img.shields.io/badge/9_stars-ffd700?style=for-the-badge&logo=github" /></a><br/>
+      <a href="https://github.com/zqaini002/student-management"><b>student-management</b></a><br/>
+      <sub>Student Management System | Java</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/zqaini002/YaoYaoLingXian">
-        <img src="https://img.shields.io/badge/%E2%AD%90-5-ffd700?style=for-the-badge" /><br/>
-        <strong>YaoYaoLingXian</strong><br/>
-        <sub>鸿蒙梦想规划师 | ArkTS</sub>
-      </a>
+    <td align="center">
+      <a href="https://github.com/zqaini002/YaoYaoLingXian"><img src="https://img.shields.io/badge/5_stars-ffd700?style=for-the-badge&logo=github" /></a><br/>
+      <a href="https://github.com/zqaini002/YaoYaoLingXian"><b>YaoYaoLingXian</b></a><br/>
+      <sub>HarmonyOS Dream Planner | ArkTS</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/zqaini002/AI-Agent-Harness">
-        <img src="https://img.shields.io/badge/%E2%AD%90-1-ffd700?style=for-the-badge" /><br/>
-        <strong>AI-Agent-Harness</strong><br/>
-        <sub>智能体工程平台 | Java</sub>
-      </a>
+    <td align="center">
+      <a href="https://github.com/zqaini002/AI-Agent-Harness"><img src="https://img.shields.io/badge/1_star-ffd700?style=for-the-badge&logo=github" /></a><br/>
+      <a href="https://github.com/zqaini002/AI-Agent-Harness"><b>AI-Agent-Harness</b></a><br/>
+      <sub>AI Agent Platform | Java</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/zqaini002/Travel-Assistant">
-        <img src="https://img.shields.io/badge/%E2%AD%90-1-ffd700?style=for-the-badge" /><br/>
-        <strong>Travel-Assistant</strong><br/>
-        <sub>AI语音旅行规划 | Python</sub>
-      </a>
+    <td align="center">
+      <a href="https://github.com/zqaini002/Travel-Assistant"><img src="https://img.shields.io/badge/1_star-ffd700?style=for-the-badge&logo=github" /></a><br/>
+      <a href="https://github.com/zqaini002/Travel-Assistant"><b>Travel-Assistant</b></a><br/>
+      <sub>AI Voice Travel Planner | Python</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/MORE-COMING-SOON-58A6FF?style=for-the-badge&logo=github&logoColor=white" /><br/>
-      <strong>Next Project</strong><br/>
-      <sub>Stay Tuned...</sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/COMING_SOON-58A6FF?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <b>Next Project</b><br/>
+      <sub>Stay Tuned</sub>
     </td>
   </tr>
 </table>
@@ -151,10 +117,10 @@
 
 <p align="center">
   <a href="https://github.com/zqaini002">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=120&section=footer" alt="footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=120&section=footer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Code+is+poetry%2C+every+commit+is+a+verse.;The+best+time+to+plant+a+tree+was+20+years+ago;The+second+best+time+is+NOW" alt="quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Code+is+poetry%2C+every+commit+is+a+verse.;The+best+time+to+plant+a+tree+was+20+years+ago;The+second+best+time+is+NOW" />
 </p>
