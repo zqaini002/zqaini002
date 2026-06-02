@@ -1,27 +1,37 @@
-<p align="center">
-  <a href="https://github.com/zqaini002">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=220&section=header&text=zqaini002&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20Explorer%20%7C%20Open%20Source&descSize=18&descAlignY=55&animation=fadeIn" alt="header" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/zqaini002?tab=followers">
-    <img src="https://img.shields.io/github/followers/zqaini002?label=Followers&style=social" alt="followers" />
-  </a>
-  <a href="https://github.com/zqaini002?tab=stars">
-    <img src="https://img.shields.io/github/stars/zqaini002?affiliations=owner&style=social" alt="stars" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+qi+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/zqaini002?tab=followers">
+  <img src="https://img.shields.io/github/followers/zqaini002?label=Followers&style=social" />
+</a>
+&nbsp;
+<a href="https://github.com/zqaini002?tab=stars">
+  <img src="https://img.shields.io/github/stars/zqaini002?affiliations=owner&style=social" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zqaini002&color=blueviolet&style=flat-square" />
+
+</div>
 
 ---
 
-### Glad to see you here!
+### About Me
 
-I'm a passionate **Full-Stack Developer** who loves building intelligent applications.
-
-- Building **AI Agent platforms** and **full-stack applications**
-- Exploring **LLM / HarmonyOS / Cloud-Native**
-- Love turning complex problems into elegant solutions
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 Building <strong>AI Agent platforms</strong> & <strong>full-stack applications</strong></li>
+        <li>🌱 Exploring <strong>LLM / HarmonyOS / Cloud-Native</strong></li>
+        <li>💬 Passionate about <strong>Java, Python, TypeScript</strong></li>
+        <li>⚡ I love turning complex problems into elegant solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,8 +66,11 @@ I'm a passionate **Full-Stack Developer** who loves building intelligent applica
 ### GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zqaini002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqaini002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zqaini002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqaini002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,24 +87,6 @@ I'm a passionate **Full-Stack Developer** who loves building intelligent applica
 
 ---
 
-### Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zqaini002&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=blueviolet&style=flat-square" alt="visitor count" />
-</p>
-
-<p align="center">
-  <i>"Code is poetry, and every commit is a verse."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zqaini002">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=120&section=footer" alt="footer" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=A0A0A0&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%22Code+is+poetry%2C+every+commit+is+a+verse.%22" alt="quote" />
 </p>
