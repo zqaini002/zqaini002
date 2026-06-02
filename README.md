@@ -1,18 +1,18 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/zqaini002">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=200&section=header&text=zqaini002&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source&descSize=16&descAlignY=55&animation=fadeIn" alt="header" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+Hey%2C+I%27m+zqaini002+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Engineer;Building+the+Future+with+Code+%E2%9A%A1" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code+%E2%9A%A1;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00d4ff" /></a>
-&nbsp;
-<a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=zqaini002&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00d4ff" /></a>
+  <a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=00d4ff&style=for-the-badge&label=VIEWS" />
+</p>
 
 <div align="center">
 
@@ -28,9 +28,9 @@
 
 </div>
 
----
-
-### <img src="https://img.shields.io/badge/About_Me-00d4ff?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%9A%80%20About%20Me&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
+</p>
 
 <table>
   <tr>
@@ -46,9 +46,9 @@
   </tr>
 </table>
 
----
-
-### <img src="https://img.shields.io/badge/Tech_Arsenal-ffd700?style=flat-square&logo=github&logoColor=black" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E2%9A%A1%20Tech%20Arsenal&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -77,9 +77,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### <img src="https://img.shields.io/badge/Battle_Stats-ff6b6b?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%93%8A%20Battle%20Stats&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REPOS-7-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
@@ -88,9 +88,9 @@
   <img src="https://img.shields.io/badge/CONTRIBUTIONS-132+-ff6b6b?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### <img src="https://img.shields.io/badge/Featured_Projects-00ff88?style=flat-square&logo=github&logoColor=black" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%92%8E%20Featured%20Projects&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
+</p>
 
 <table>
   <tr>
@@ -139,9 +139,9 @@
   </tr>
 </table>
 
----
-
-### <img src="https://img.shields.io/badge/Contribution_Snake-brightgreen?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%90%8D%20Contribution%20Snake&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake-dark.svg" />
@@ -149,7 +149,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake-dark.svg" />
 </picture>
 
----
+<p align="center">
+  <a href="https://github.com/zqaini002">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=120&section=footer" alt="footer" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=2500&color=00FFAA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%96%88+Code+is+poetry%2C+every+commit+is+a+verse.+%E2%96%88;The+best+time+to+plant+a+tree+was+20+years+ago;The+second+best+time+is+NOW+%F0%9F%9A%80" alt="quotes" />
