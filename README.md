@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code+%E2%9A%A1;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code+%E2%9A%A1;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00d4ff" /></a>
+  <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=58A6FF" /></a>
   <a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
-  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=00d4ff&style=for-the-badge&label=VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=zqaini002&color=58A6FF&style=for-the-badge&label=VIEWS" />
 </p>
 
 <div align="center">
@@ -28,9 +28,9 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%9A%80%20About%20Me&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
-</p>
+---
+
+## About Me
 
 <table>
   <tr>
@@ -46,9 +46,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E2%9A%A1%20Tech%20Arsenal&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
-</p>
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -77,40 +77,40 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%93%8A%20Battle%20Stats&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
-</p>
+---
+
+## Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REPOS-7-00d4ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REPOS-7-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/TOTAL_STARS-63-ffd700?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-6-00ff88?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-132+-ff6b6b?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-6-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-132+-00C853?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%92%8E%20Featured%20Projects&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
-</p>
+---
+
+## Featured Projects
 
 <table>
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/zqaini002/Novel_Wonderful-generation">
-        <img src="https://img.shields.io/badge/%E2%AD%90-44-yellow?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/%E2%AD%90-44-ffd700?style=for-the-badge" /><br/>
         <strong>Novel_Wonderful-generation</strong><br/>
         <sub>小说智析系统 | Java</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/zqaini002/student-management">
-        <img src="https://img.shields.io/badge/%E2%AD%90-9-yellow?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/%E2%AD%90-9-ffd700?style=for-the-badge" /><br/>
         <strong>student-management</strong><br/>
         <sub>高校学生管理系统 | Java</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/zqaini002/YaoYaoLingXian">
-        <img src="https://img.shields.io/badge/%E2%AD%90-5-yellow?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/%E2%AD%90-5-ffd700?style=for-the-badge" /><br/>
         <strong>YaoYaoLingXian</strong><br/>
         <sub>鸿蒙梦想规划师 | ArkTS</sub>
       </a>
@@ -119,29 +119,29 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/zqaini002/AI-Agent-Harness">
-        <img src="https://img.shields.io/badge/%E2%AD%90-1-yellow?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/%E2%AD%90-1-ffd700?style=for-the-badge" /><br/>
         <strong>AI-Agent-Harness</strong><br/>
         <sub>智能体工程平台 | Java</sub>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/zqaini002/Travel-Assistant">
-        <img src="https://img.shields.io/badge/%E2%AD%90-1-yellow?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/%E2%AD%90-1-ffd700?style=for-the-badge" /><br/>
         <strong>Travel-Assistant</strong><br/>
         <sub>AI语音旅行规划 | Python</sub>
       </a>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/MORE-COMING-SOON-00d4ff?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MORE-COMING-SOON-58A6FF?style=for-the-badge&logo=github&logoColor=white" /><br/>
       <strong>Next Project</strong><br/>
       <sub>Stay Tuned...</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%90%8D%20Contribution%20Snake&height=60&fontSize=24&fontColor=FFFFFF&section=header&animation=fadeIn" />
-</p>
+---
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake-dark.svg" />
@@ -156,5 +156,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=2500&color=00FFAA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%96%88+Code+is+poetry%2C+every+commit+is+a+verse.+%E2%96%88;The+best+time+to+plant+a+tree+was+20+years+ago;The+second+best+time+is+NOW+%F0%9F%9A%80" alt="quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Code+is+poetry%2C+every+commit+is+a+verse.;The+best+time+to+plant+a+tree+was+20+years+ago;The+second+best+time+is+NOW" alt="quotes" />
 </p>
