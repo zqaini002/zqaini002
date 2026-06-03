@@ -7,7 +7,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+Code;AI+%26+Intelligent+Agent+Enthusiast;Open+Source+Contributor" />
 </p>
+<p>
 
+  
+</p>
 <p align="center">
   <a href="https://github.com/zqaini002?tab=followers"><img src="https://img.shields.io/github/followers/zqaini002?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=58A6FF" /></a>
   <a href="https://github.com/zqaini002?tab=stars"><img src="https://img.shields.io/github/stars/zqaini002?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=ffd700" /></a>
