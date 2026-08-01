@@ -87,6 +87,14 @@ I am a full-stack developer interested in building practical, maintainable softw
 | Web | TypeScript, JavaScript, Vue, React, Node.js |
 | Platform and Delivery | ArkTS, HarmonyOS, Docker, Linux, Git |
 
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake.svg" />
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/zqaini002/zqaini002/output/github-snake.svg" width="100%" />
+</picture>
+
 <p align="center">
   Thanks for visiting. Explore my <a href="https://github.com/zqaini002?tab=repositories">repositories</a> to see the work in more detail.
 </p>
