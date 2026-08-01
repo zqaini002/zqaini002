@@ -25,6 +25,12 @@ I am a full-stack developer interested in building practical, maintainable softw
 - HarmonyOS application development with ArkTS
 - Python automation and applied AI experiments
 
+## Open Source Contribution
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | Implemented side-effect-free leaf-command help handling with isolated runtime-safety coverage. | [PR #46](https://github.com/QoderAI/better-harness/pull/46) in review; 1.3k+ Stars |
+
 ## Selected Projects
 
 Projects are ordered by their current GitHub Star count.
