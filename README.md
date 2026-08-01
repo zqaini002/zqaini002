@@ -25,24 +25,47 @@ I am a full-stack developer interested in building practical, maintainable softw
 - HarmonyOS application development with ArkTS
 - Python automation and applied AI experiments
 
-## Open Source Contribution
+## Open Source
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | Implemented side-effect-free leaf-command help handling with isolated runtime-safety coverage. | [PR #46](https://github.com/QoderAI/better-harness/pull/46) in review; 1.3k+ Stars |
+<p align="center">
+  <a href="https://github.com/QoderAI/better-harness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QoderAI&repo=better-harness&theme=github_dark&hide_border=true" alt="QoderAI/better-harness" />
+  </a>
+</p>
 
-## Selected Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-CLI-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript CLI" />
+  <img src="https://img.shields.io/github/stars/QoderAI/better-harness?style=for-the-badge&logo=github&label=STARS&color=F4B400" alt="Better Harness stars" />
+</p>
 
-Projects are ordered by their current GitHub Star count.
+## Personal Projects
 
-| Project | Description | Stack | Stars |
-| --- | --- | --- | ---: |
-| [Novel_Wonderful-generation](https://github.com/zqaini002/Novel_Wonderful-generation) | A novel analysis system for discovery, reading, and deeper content analysis. | Java | 46 |
-| [student-management](https://github.com/zqaini002/student-management) | Student information management with authentication, courses, grades, and administration workflows. | Java, Spring Boot, MyBatis-Plus | 9 |
-| [YaoYaoLingXian](https://github.com/zqaini002/YaoYaoLingXian) | A HarmonyOS dream-planning application for setting, managing, and pursuing personal goals. | ArkTS, HarmonyOS | 5 |
-| [weix](https://github.com/zqaini002/weix) | A personal messaging automation experiment with LLM-powered replies and configurable skills. | Python | 3 |
-| [AI-Agent-Harness](https://github.com/zqaini002/AI-Agent-Harness) | A deployable agent engineering platform for runtime orchestration, knowledge enhancement, tool calling, governance, and a workbench. | Java | 2 |
-| [Travel-Assistant](https://github.com/zqaini002/Travel-Assistant) | A voice-driven travel planning assistant built on Open-AutoGLM. | Python | 1 |
+<p align="center">
+  <a href="https://github.com/zqaini002/Novel_Wonderful-generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=Novel_Wonderful-generation&theme=github_dark&hide_border=true" alt="Novel Wonderful Generation" />
+  </a>
+  <a href="https://github.com/zqaini002/student-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=student-management&theme=github_dark&hide_border=true" alt="Student Management" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zqaini002/YaoYaoLingXian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=YaoYaoLingXian&theme=github_dark&hide_border=true" alt="YaoYaoLingXian" />
+  </a>
+  <a href="https://github.com/zqaini002/weix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=weix&theme=github_dark&hide_border=true" alt="weix" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zqaini002/AI-Agent-Harness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=AI-Agent-Harness&theme=github_dark&hide_border=true" alt="AI Agent Harness" />
+  </a>
+  <a href="https://github.com/zqaini002/Travel-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zqaini002&repo=Travel-Assistant&theme=github_dark&hide_border=true" alt="Travel Assistant" />
+  </a>
+</p>
 
 ## Technology
 
