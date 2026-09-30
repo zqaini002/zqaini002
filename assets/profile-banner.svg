@@ -1,23 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Sevyn developer profile</title>
-  <desc id="desc">Full-stack developer focused on AI agent systems and open source.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="1" stop-color="#132b36"/>
-    </linearGradient>
-    <linearGradient id="accent">
-      <stop offset="0" stop-color="#14b8a6"/>
-      <stop offset="1" stop-color="#60a5fa"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
-  <rect x="0" y="0" width="12" height="280" fill="#14b8a6"/>
-  <path d="M820 34h310M900 86h230M820 138h310M900 190h230M820 242h310" stroke="#303030" stroke-width="2"/>
-  <path d="M748 57l38 40-38 40M786 137l38 40-38 40" fill="none" stroke="#14b8a6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M1076 65l-38 40 38 40M1038 145l-38 40 38 40" fill="none" stroke="#60a5fa" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="78" y="116" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">Sevyn</text>
-  <text x="82" y="164" fill="#a3a3a3" font-family="Arial, Helvetica, sans-serif" font-size="23">Full-Stack Developer · AI Agent Builder · Open Source</text>
-  <line x1="82" y1="205" x2="590" y2="205" stroke="url(#accent)" stroke-width="4"/>
-  <text x="82" y="242" fill="#d4d4d4" font-family="Arial, Helvetica, sans-serif" font-size="19">Java  /  Python  /  TypeScript  /  ArkTS</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title"><title id="title">Sevyn — full-stack developer and AI agent builder</title><defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a3ff12" stroke-opacity=".055"/></pattern><radialGradient id="glow"><stop stop-color="#a3ff12" stop-opacity=".13"/><stop offset="1" stop-color="#a3ff12" stop-opacity="0"/></radialGradient></defs><rect width="1200" height="380" rx="18" fill="#090e0b"/><rect x="1" y="1" width="1198" height="378" rx="17" fill="url(#grid)" stroke="#263529"/><ellipse cx="960" cy="180" rx="320" ry="230" fill="url(#glow)"/><path d="M760 72h96l48 48h230M808 260h72l44-44h208M980 60v54l44 44v130M750 180h106l30-30h72" fill="none" stroke="#a3ff12" stroke-opacity=".28" stroke-width="2"/><circle cx="760" cy="72" r="4" fill="#a3ff12"/><circle cx="1134" cy="120" r="4" fill="#a3ff12"/><circle cx="808" cy="260" r="4" fill="#a3ff12"/><rect x="902" y="126" width="134" height="88" rx="12" fill="#0b140d" stroke="#a3ff12"/><path d="M936 158l-14 12 14 12M1001 158l14 12-14 12M978 152l-16 37" fill="none" stroke="#a3ff12" stroke-width="3"/>
+<circle cx="51" cy="38" r="5" fill="#a3ff12"/><circle cx="71" cy="38" r="5" fill="#536448"/><circle cx="91" cy="38" r="5" fill="#283529"/><text x="118" y="44" fill="#839587" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="400">sevyn@github: ~/workspace</text><text x="52" y="107" fill="#a3ff12" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="400">FULL-STACK / AI AGENTS / OPEN SOURCE</text><text x="48" y="191" fill="#edf9ec" font-family="Consolas, Menlo, monospace" font-size="86" font-weight="700">SEVYN</text><text x="52" y="238" fill="#b9c8bb" font-family="Consolas, Menlo, monospace" font-size="21" font-weight="400">Turning ideas into working systems.</text><text x="52" y="298" fill="#a3ff12" font-family="Consolas, Menlo, monospace" font-size="16" font-weight="400">JAVA  /  PYTHON  /  TYPESCRIPT  /  ARKTS</text><text x="914" y="247" fill="#a3ff12" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="400">&lt; build / ship &gt;</text><text x="52" y="348" fill="#839587" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="400">&gt; github.com/zqaini002</text></svg>
